@@ -118,6 +118,8 @@ input{
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
+	margin-left: 40px;
+	margin-top: 10px;
 }
 #div72{
 	height: 300px;
@@ -126,6 +128,8 @@ input{
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
+	margin-left: 40px;
+	margin-top: 10px;
 }
 #div73{
 	height: 300px;
@@ -134,4 +138,12 @@ input{
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
+	margin-left: 40px;
+	margin-top: 10px;
+}
+h4{
+	margin-left: 40px;
+}
+p{
+	margin-left: 40px;
 }
